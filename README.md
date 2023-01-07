@@ -9,3 +9,10 @@
     }
 }
 ```
+
+### Running programs (shift + alt)
+
+!+u:: {
+Run "PATH APPS"
+return("")
+}
