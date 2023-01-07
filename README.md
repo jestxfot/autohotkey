@@ -11,8 +11,8 @@
 ```
 
 ### Running programs (shift + alt)
-
-!+u:: {
+```autohotkey
+!+a:: {
 Run "PATH APPS"
-return("")
 }
+```
