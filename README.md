@@ -16,3 +16,14 @@
 Run "PATH APPS"
 }
 ```
+
+### 3 or more hotkeys (ctrl + b + r + o)
+```autohotkey
+Ctrl & o:: {
+    if GetKeyState("r")  {
+        if GetKeyState("b")  {
+        MsgBox "Hotkey activated"
+        }
+    }
+}
+```
