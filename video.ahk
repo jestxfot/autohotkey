@@ -372,7 +372,6 @@ Run "D:\Apps\Browsers\Firefox"
         Run "G:\Browsers\Windows\App\chrome.exe" ; W + I (Windows)
     }
 }
-
 !+h:: {
     if GetKeyState("s")  {
         Run "G:\Browsers\Vivaldi\School.lnk" ; S + H (School)
