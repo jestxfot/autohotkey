@@ -1,3 +1,8 @@
+### Alternative
+https://alternativeto.net/software/espanso/
+
+PhraseExpress
+
 ### Replacing words with a line (including quotation marks!)
 ```autohotkey
 :*:WORD1:: {
